@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-01-16 23:53+0000\n"
-"Last-Translator: Eirik Hanssen <eirikh@oslomet.no>\n"
+"PO-Revision-Date: 2021-01-28 22:54+0000\n"
+"Last-Translator: FRITT, University of Oslo Library <fritt-"
+"info@journals.uio.no>\n"
 "Language-Team: Norwegian Bokmål <http://translate.pkp.sfu.ca/projects/"
 "plugins/texture-plugin/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -21,7 +22,7 @@ msgid "plugins.generic.texture.notification.noManifest"
 msgstr "Ingen manifestfil tilgjengelig"
 
 msgid "plugins.generic.texture.notification.noManuscript"
-msgstr "Ingen manuskriftfil tilgjengelig"
+msgstr "Ingen manuskriptfil tilgjengelig"
 
 msgid "plugins.generic.texture.name"
 msgstr "Texture"
@@ -39,10 +40,10 @@ msgid "plugins.generic.texture.links.editWithTexture"
 msgstr "Rediger med Texture"
 
 msgid "plugins.generic.texture.links.createGalley"
-msgstr "Opprett oppsett"
+msgstr "Lag oppsett"
 
 msgid "plugins.generic.texture.displayName"
-msgstr "Texture editor programtillegg"
+msgstr "Texture editor-programtillegg"
 
 msgid "plugins.generic.texture.description"
 msgstr "Programtillegg for å integrere Texture JATS XML editor med OJS."
